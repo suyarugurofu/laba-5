@@ -1,0 +1,15 @@
+/Users/suyaru/Projects/laba5/laba5/bin/Debug/net7.0/laba5
+/Users/suyaru/Projects/laba5/laba5/bin/Debug/net7.0/laba5.deps.json
+/Users/suyaru/Projects/laba5/laba5/bin/Debug/net7.0/laba5.runtimeconfig.json
+/Users/suyaru/Projects/laba5/laba5/bin/Debug/net7.0/laba5.dll
+/Users/suyaru/Projects/laba5/laba5/bin/Debug/net7.0/laba5.pdb
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.csproj.AssemblyReference.cache
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.AssemblyInfoInputs.cache
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.AssemblyInfo.cs
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.csproj.CoreCompileInputs.cache
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.dll
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/refint/laba5.dll
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.pdb
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/laba5.genruntimeconfig.cache
+/Users/suyaru/Projects/laba5/laba5/obj/Debug/net7.0/ref/laba5.dll
